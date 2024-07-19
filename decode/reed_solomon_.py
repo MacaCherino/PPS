@@ -1,3 +1,8 @@
+"""
+Libreria https://pypi.org/project/reed-solomon-ccsds/ modificada
+
+"""
+
 from typing import Union, List, Tuple, Any, cast
 
 import numpy as np
