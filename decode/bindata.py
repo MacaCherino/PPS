@@ -1,5 +1,7 @@
 """
 Simple implementation of class handling arbitrary long binary data sequences.
+
+https://github.com/knaperek/viterbi/tree/master
 """
 
 class BinData:
