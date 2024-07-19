@@ -2,6 +2,7 @@
 """
 Viterbi algorithm for decoding convolutional codes.
 
+https://github.com/knaperek/viterbi/tree/master
 """
 __author__ = "Jozef Knaperek"
 
